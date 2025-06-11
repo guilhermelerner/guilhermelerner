@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🎓 Estudante de Ciêncaia da Computação na UNICENTRO.<br>
+  🎓 Estudante de Ciência da Computação na UNICENTRO.<br>
   🌱 Atualmente, estou aprendendo mais sobre Docker, Angular, HTML e CSS.<br>
   🎯 Buscando oportunidades para colaborar e aplicar meu conhecimento em projetos.
 </p>
