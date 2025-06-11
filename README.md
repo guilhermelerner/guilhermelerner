@@ -1,7 +1,7 @@
 ### 👋 Olá, sou Guilherme Lerner! Seja bem-vindo ao meu perfil.
 
 <p align="left"> 
-  Gosto de tecnologias e astronomia, atualmente estou focado em aprender mais um pouco sobre algumas áreas em específico como a de Cloud Computing e IA, além é claaro das matérias da faculdade.
+  Gosto de tecnologias e astronomia, atualmente estou focado em aprender mais um pouco sobre algumas áreas em específico como a de Cloud Computing e IA, além é claro das matérias da faculdade.
 </p>
 
 <p align="left">
