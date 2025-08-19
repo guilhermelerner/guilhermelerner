@@ -21,7 +21,7 @@
   <a href="https://www.twitch.tv/guizero77" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </p>
 <p align="left">
-  <a href="URL_DE_VERIFICACAO_DA_AWS_OU_CREADLY" target="_blank">
+  <a href="FirstBadgeAWS" target="_blank">
   <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true" alt="AWS Badge" width="150" height="150">
 </a>
 </p>
