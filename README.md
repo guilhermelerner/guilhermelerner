@@ -12,6 +12,23 @@
 
 ---
 
+### 🛡️ Badges & Social
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilherme-lerner-088141328/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:guilerner8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/guilhermelerner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/guizero77" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=guilhermelerner&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+  <a href="https://www.credly.com/badges/9b4b1ac9-ab27-43c0-a737-3e4ba819b6ca" target="_blank">
+    <img src="https://images.credly.com/size/220x220/9b4b1ac9-ab27-43c0-a737-3e4ba819b6ca.png" alt="Credly Badge" width="150" height="150">
+  </a>
+</p>
+
+---
+
 ### 💻 Tecnologias e Ferramentas
 
 <div align="left">
@@ -52,15 +69,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/guilhermelerner/guilhermelerner/main/dist/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
----
-
-### 📫 Entre em Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-lerner-088141328/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilerner8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/guilhermelerner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/guizero77" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </p>
