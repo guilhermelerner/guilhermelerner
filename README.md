@@ -65,7 +65,3 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guilhermelerner/guilhermelerner/main/dist/github-contribution-grid-snake.svg" alt="snake">
-</p>
