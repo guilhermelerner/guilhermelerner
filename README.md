@@ -21,11 +21,11 @@
   <a href="https://www.twitch.tv/guizero77" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=guilhermelerner&style=for-the-badge&color=brightgreen" alt="Profile views"/>
-  <a href="https://www.credly.com/badges/9b4b1ac9-ab27-43c0-a737-3e4ba819b6ca" target="_blank">
-    <img src="https://images.credly.com/size/220x220/9b4b1ac9-ab27-43c0-a737-3e4ba819b6ca.png" alt="Credly Badge" width="150" height="150">
-  </a>
+  <a href="URL_DE_VERIFICACAO_DA_AWS_OU_CREADLY" target="_blank">
+  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true" alt="AWS Badge" width="150" height="150">
+</a>
 </p>
+https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true
 
 ---
 
