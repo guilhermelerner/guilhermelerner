@@ -25,6 +25,11 @@
   <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true" alt="AWS Badge" width="150" height="150">
 </a>
 </p>
+<p align="left">
+  <a href="SecondBadgeAWS" target="_blank">
+  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true" alt="AWS2 Badge" width="150" height="150">
+</a>
+</p>
 
 ---
 
