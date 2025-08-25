@@ -21,15 +21,9 @@
   <a href="https://www.twitch.tv/guizero77" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </p>
 <div style="display: flex; gap: 10px;">
-  <a href="https://github.com/guilhermelerner/guilhermelerner/blob/main/AWSEBadge.png" target="_blank">
-    <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/AWSEBadge.png?raw=true" alt="AWSETC Badge" width="150" height="150">
-  </a>
-  <a href="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png" target="_blank">
-    <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true" alt="AWS Badge" width="150" height="150">
-  </a>
-  <a href="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-getting-started-with-storage.png" target="_blank">
-    <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-getting-started-with-storage.png?raw=true" alt="AWS2 Badge" width="150" height="150">
-  </a>
+  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/AWSEBadge.png?raw=true" alt="AWSETC Badge" width="150" height="150">
+  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true" alt="AWS Badge" width="150" height="150">
+  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-getting-started-with-storage.png?raw=true" alt="AWS2 Badge" width="150" height="150">
 </div>
 
 ---
