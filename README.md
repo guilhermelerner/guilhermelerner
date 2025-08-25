@@ -14,19 +14,27 @@
 
 ### 🛡️ Badges & Social
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/guilherme-lerner-85b7a22a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:guilerner8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/guilhermelerner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitch.tv/guizero77" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <a href="https://www.linkedin.com/in/guilherme-lerner-85b7a22a2/" target="_blank" style="border: none; outline: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:guilerner8@gmail.com" style="border: none; outline: none;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/guilhermelerner/" target="_blank" style="border: none; outline: none;">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.twitch.tv/guizero77" target="_blank" style="border: none; outline: none;">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
 
-  <a href="ETCBadgeAWS" target="_blank">
+  <a href="ETCBadgeAWS" target="_blank" style="border: none; outline: none;">
     <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/AWSEBadge.png?raw=true" alt="AWSETC Badge" width="150" height="150">
   </a>
-  <a href="FirstBadgeAWS" target="_blank">
+  <a href="FirstBadgeAWS" target="_blank" style="border: none; outline: none;">
     <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true" alt="AWS Badge" width="150" height="150">
   </a>
-  <a href="SecondBadgeAWS" target="_blank">
+  <a href="SecondBadgeAWS" target="_blank" style="border: none; outline: none;">
     <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-getting-started-with-storage.png?raw=true" alt="AWS2 Badge" width="150" height="150">
   </a>
 </div>
