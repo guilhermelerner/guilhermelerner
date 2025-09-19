@@ -45,13 +45,14 @@
 </div>
 <br>
 <div align="left">
-<strong>Cloud Native & Observability:</strong><br>
-<img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-<img align="center" alt="Kind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kind/kind-original.svg">
-<img align="center" alt="Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
-<img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-<img align="center" alt="Loki" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/loki/loki-original.svg">
+  <strong>Cloud Native & Observability:</strong><br>
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Kind" height="30" width="40" src="https://cdn.simpleicons.org/kind/326CE5">
+  <img align="center" alt="Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
+  <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Loki" height="30" width="40" src="https://cdn.simpleicons.org/loki/F88F23">
 </div>
+<br>
 <div align="left">
   <strong>Ferramentas e Ambiente:</strong><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -62,7 +63,6 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="DBeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
 </div>
-
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
