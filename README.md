@@ -45,6 +45,14 @@
 </div>
 <br>
 <div align="left">
+<strong>Cloud Native & Observability:</strong><br>
+<img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+<img align="center" alt="Kind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kind/kind-original.svg">
+<img align="center" alt="Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
+<img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+<img align="center" alt="Loki" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/loki/loki-original.svg">
+</div>
+<div align="left">
   <strong>Ferramentas e Ambiente:</strong><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
