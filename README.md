@@ -63,6 +63,6 @@
   <a href="https://github.com/guilhermelerner">
     <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermelerner&theme=tokyonight&hide_border=false"/>
+    <img align="center" height="170em" src="https://git-hub-streak-stats.vercel.app/?user=guilhermelerner&theme=tokyonight&hide_border=false"/>
   </a>
 </p>
