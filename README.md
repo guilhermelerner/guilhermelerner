@@ -62,7 +62,6 @@
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&langs_count=7&theme=tokyonight" height="170em" />
-</p>
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800)
