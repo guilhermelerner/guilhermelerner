@@ -1,73 +1,67 @@
-### 👋 Olá, sou Guilherme Lerner! Seja bem-vindo ao meu perfil.
+# 👋 Olá, eu sou o Guilherme Lerner
 
-<p align="left"> 
-  Gosto de tecnologias e astronomia, atualmente estou focado em aprender mais um pouco sobre algumas áreas em específico como a de Cloud Computing e IA, além é claro das matérias da faculdade.
+<p align="left">
+  <strong>Estudante de Ciência da Computação @ UNICENTRO | Buscando vagas em DevOps, Dados ou SRE </strong>
 </p>
 
 <p align="left">
-  🎓 Estudante de Ciência da Computação na UNICENTRO.<br>
-  🌱 Atualmente, estou aprendendo mais sobre Docker,Prometheus, Grafana e APIs.<br>
-  🎯 Buscando oportunidades para colaborar e aplicar meu conhecimento em projetos.
+  Atualmente focado no desenvolvimento de uma <strong>Plataforma de Observabilidade Full-Stack</strong> (Métricas, Logs e Tracing) para microsserviços em Kubernetes como meu Trabalho de Conclusão de Curso (TCC). Gosto de automação de infraestrutura,análise de dados, cultura Cloud Native e astronomia.
+</p>
+
+<p align="left">
+  🌱 <strong>No momento:</strong> Aprofundando em Kubernetes, AWS, Prometheus e Grafana.<br>
+  🚀 <strong>Extensão:</strong> Desenvolvo projetos de inclusão digital e IA na UNATI (Unicentro).<br>
+  🎯 <strong>Objetivo:</strong> Aplicar automação e monitoramento para criar sistemas resilientes e escaláveis.
 </p>
 
 ---
 
-### 🛡️ Badges & Social
+### 🛡️ Certificações & Social
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-lerner-85b7a22a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:guilerner8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/guilhermelerner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/guizero77" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-lerner-85b7a22a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:guilerner8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/AWSEBadge.png?raw=true" alt="AWSETC Badge" width="150" height="150">
-  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true" alt="AWS Badge" width="150" height="150">
-  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-getting-started-with-storage.png?raw=true" alt="AWS2 Badge" width="150" height="150">
+  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/AWSEBadge.png?raw=true" alt="AWS Cloud" width="100">
+  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true" alt="AWS Intro" width="100">
+  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-getting-started-with-storage.png?raw=true" alt="AWS Storage" width="100">
 </div>
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Stack Técnica
 
-<div align="left">
-  <strong>Frontend:</strong><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
-<div align="left">
-  <strong>Backend & Linguagens:</strong><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
-<br>
-<div align="left">
-  <strong>Cloud Native & Observability:</strong><br>
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
-  <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-</div>
-<br>
-<div align="left">
-  <strong>Ferramentas e Ambiente:</strong><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="DBeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Cloud & Infrastructure</strong><br>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+      <br>
+      <strong>Observability</strong><br>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+    </td>
+    <td valign="top" width="50%">
+      <strong>Languages & Backend</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <br>
+      <strong>Tools</strong><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+    </td>
+  </tr>
+</table>
 
-### 📊 Minhas Estatísticas no GitHub
+---
 
+### 📊 Estatísticas
 <p align="center">
-  <a href="https://github.com/guilhermelerner">
-    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img align="center" height="170em" src="https://git-hub-streak-stats.vercel.app/?user=guilhermelerner&theme=tokyonight&hide_border=false"/>
-  </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
