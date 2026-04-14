@@ -60,8 +60,8 @@
 
 ---
 
-### 📊 Estatísticas
+### 🚀 Projetos em Destaque
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800)
+* **[Em Desenvolvimento] Plataforma de Observabilidade Full-Stack:** Construção de ambiente com Métricas, Logs e Tracing Distribuído para microsserviços rodando em Kubernetes (TCC).
+* **Pipeline de Dados de Aviação (ANAC):** Automação de extração e tratamento de dados brutos utilizando Python, Pandas e MySQL para geração de visualizações.
+* **Inclusão Digital & Cibersegurança:** Projeto de extensão (UNATI) focado em conscientização sobre o uso adequado de Inteligência Artificial e prevenção de golpes para a comunidade sênior.
