@@ -1,67 +1,58 @@
 # 👋 Olá, eu sou o Guilherme Lerner
 
 <p align="left">
-  <strong>Estudante de Ciência da Computação @ UNICENTRO | Buscando vagas em DevOps, Dados ou SRE </strong>
+  <strong>Desenvolvedor de Sistemas @ Agrocifra | Bacharelando em Ciência da Computação @ UNICENTRO</strong>
 </p>
 
 <p align="left">
-  Atualmente focado no desenvolvimento de uma <strong>Plataforma de Observabilidade Full-Stack</strong> (Métricas, Logs e Tracing) para microsserviços em Kubernetes como meu Trabalho de Conclusão de Curso (TCC). Gosto de automação de infraestrutura,análise de dados, cultura Cloud Native e astronomia.
+Atualmente atuo como <strong>Desenvolvedor de Sistemas</strong> na Agrocifra, desenvolvendo soluções para o agronegócio. Tenho interesse em desenvolvimento backend, computação em nuvem, infraestrutura, engenharia de dados e observabilidade.
 </p>
 
 <p align="left">
-  🌱 <strong>No momento:</strong> Aprofundando em Kubernetes, AWS, Prometheus e Grafana.<br>
-  🚀 <strong>Extensão:</strong> Desenvolvo projetos de inclusão digital e IA na UNATI (Unicentro).<br>
-  🎯 <strong>Objetivo:</strong> Aplicar automação e monitoramento para criar sistemas resilientes e escaláveis.
+💼 <strong>Atuação:</strong> Desenvolvedor de Sistemas na Agrocifra.<br>
+🎓 <strong>Formação:</strong> Ciência da Computação - UNICENTRO.<br>
+☁️ <strong>Interesses:</strong> Cloud Computing, DevOps, Observabilidade, Backend e Engenharia de Dados.<br>
+🚀 <strong>Objetivo:</strong> Construir sistemas escaláveis, resilientes e bem monitorados.
 </p>
 
 ---
 
-### 🛡️ Certificações & Social
+## 💼 Experiência
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-lerner-85b7a22a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:guilerner8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/AWSEBadge.png?raw=true" alt="AWS Cloud" width="100">
-  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-introduction-to-cloud-101%20(1).png?raw=true" alt="AWS Intro" width="100">
-  <img src="https://github.com/guilhermelerner/guilhermelerner/blob/main/aws-educate-getting-started-with-storage.png?raw=true" alt="AWS Storage" width="100">
-</div>
+### Desenvolvedor de Sistemas • Agrocifra
+- Desenvolvimento e manutenção de sistemas para o agronegócio.
+- Implementação de novas funcionalidades e melhorias.
+- Integração entre sistemas e banco de dados.
+- Participação em análises, correções e evolução de software.
 
 ---
 
-### 💻 Stack Técnica
+## 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Cloud & Infrastructure</strong><br>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-      <br>
-      <strong>Observability</strong><br>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
-    </td>
-    <td valign="top" width="50%">
-      <strong>Languages & Backend</strong><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-      <br>
-      <strong>Tools</strong><br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-    </td>
-  </tr>
-</table>
+### 🔹 Plataforma de Observabilidade Full-Stack (TCC)
+Projeto de conclusão de curso aprovado, com desenvolvimento de uma plataforma completa de observabilidade para microsserviços em Kubernetes utilizando Prometheus, Grafana e OpenTelemetry para coleta de métricas, logs e traces distribuídos.
+
+### 🔹 Pipeline de Dados da ANAC
+Pipeline de ETL desenvolvido em Python, Pandas e MySQL para extração, tratamento e armazenamento de dados públicos da ANAC.
+
+### 🔹 Inclusão Digital & Segurança Digital
+Projeto de extensão universitária voltado ao ensino de tecnologia, inteligência artificial e conscientização sobre golpes digitais para a comunidade sênior.
 
 ---
 
-### 🚀 Projetos em Destaque
+## 💻 Tecnologias
 
-* **[Em Desenvolvimento] Plataforma de Observabilidade Full-Stack:** Construção de ambiente com Métricas, Logs e Tracing Distribuído para microsserviços rodando em Kubernetes (TCC).
-* **Pipeline de Dados de Aviação (ANAC):** Automação de extração e tratamento de dados brutos utilizando Python, Pandas e MySQL para geração de visualizações.
-* **Inclusão Digital & Cibersegurança:** Projeto de extensão (UNATI) focado em conscientização sobre o uso adequado de Inteligência Artificial e prevenção de golpes para a comunidade sênior.
+### Linguagens
+Python • C++ • SQL
+
+### Backend
+APIs • MySQL
+
+### Cloud & DevOps
+Docker • Kubernetes • AWS • Linux
+
+### Observabilidade
+Prometheus • Grafana • OpenTelemetry
+
+### Ferramentas
+Git • GitHub
