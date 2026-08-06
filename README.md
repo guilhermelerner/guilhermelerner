@@ -114,7 +114,7 @@ Aplicação desenvolvida para análise de dados utilizando técnicas preditivas 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&theme=github_dark&hide_border=true"/>](https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&rank_icon=github&theme=github_dark_dimmed&hide_border=true)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermelerner&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&theme=github_dark&hide_border=true"/>
 
