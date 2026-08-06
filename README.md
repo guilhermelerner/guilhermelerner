@@ -1,52 +1,143 @@
-# 👋 Olá, eu sou o Guilherme Lerner
+<div align="center">
 
-**Desenvolvedor de Sistemas @ Agrocifra • Bacharelando em Ciência da Computação @ UNICENTRO**
+# Guilherme Lerner
 
-Construo sistemas para o agronegócio na Agrocifra, com foco em backend, integrações e banco de dados. Meu interesse está em levar software além do "funciona na minha máquina": computação em nuvem, infraestrutura, engenharia de dados e observabilidade — tema do meu TCC.
+### Software Engineering • Cloud • DevOps • Observability
 
-🎯 **Objetivo:** projetar sistemas escaláveis, resilientes e bem monitorados.
+Estagiário de Desenvolvimento de Sistemas • Ciência da Computação
 
----
+<p>
+  <a href="https://github.com/guilhermelerner">
+    <img src="https://img.shields.io/github/followers/guilhermelerner?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-## 💼 Experiência
-
-**Desenvolvedor de Sistemas • Agrocifra**
-
-- Desenvolvimento e manutenção de sistemas para o agronegócio
-- Implementação de novas funcionalidades e evolução de módulos existentes
-- Integração entre sistemas e modelagem/consulta de banco de dados
-- Análise de requisitos, diagnóstico e correção de defeitos em produção
-
----
-
-## 🚀 Projetos em destaque
-
-**🔹 Plataforma de Observabilidade Full-Stack — TCC**
-
-Plataforma completa de observabilidade para microsserviços em Kubernetes, cobrindo os três pilares (métricas, logs e traces distribuídos) com Prometheus, Grafana e OpenTelemetry. Projeto de conclusão de curso aprovado.
-
-**🔹 Pipeline de Dados da ANAC**
-
-Pipeline de ETL em Python, Pandas e MySQL para extração, tratamento e armazenamento de dados públicos da ANAC — transformando arquivos brutos em base consultável.
-
-**🔹 Inclusão Digital & Segurança Digital**
-
-Projeto de extensão universitária de ensino de tecnologia e inteligência artificial para a comunidade sênior, com ênfase em conscientização sobre golpes digitais.
+</div>
 
 ---
 
-## 💻 Tecnologias
+## 👋 Olá!
 
-| | |
-|---|---|
-| **Linguagens** | Python • C++ • SQL |
-| **Backend & Dados** | APIs REST • MySQL • Pandas |
-| **Cloud & DevOps** | Docker • Kubernetes • AWS • Linux |
-| **Observabilidade** | Prometheus • Grafana • OpenTelemetry |
-| **Ferramentas** | Git • GitHub |
+Sou estudante de Ciência da Computação e atualmente atuo como **Estagiário de Desenvolvimento de Sistemas** na **Agrocifra**.
+
+Tenho interesse em desenvolver software de qualidade, automatizar processos e construir aplicações escaláveis. Nos últimos anos venho direcionando meus estudos para **Cloud Computing**, **DevOps**, **Observabilidade** e **Engenharia de Software**, sempre buscando aplicar esses conceitos em projetos práticos.
+
+Meu objetivo é evoluir para uma carreira como **Software Engineer**, desenvolvendo soluções modernas e bem estruturadas.
+
+---
+
+## 🚀 Atualmente
+
+- 💼 Estagiário de Desenvolvimento de Sistemas
+- 🎓 Concluindo Bacharelado em Ciência da Computação
+- 📖 Desenvolvendo conhecimentos em Arquitetura de Software
+- ☁️ Estudando AWS, Kubernetes e Terraform
+- 📊 Explorando Observabilidade e Engenharia de Plataforma
+- 🏗 Construindo projetos para fortalecer meu portfólio
+
+---
+
+## 💻 Stack
+
+### Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript"/>
+</p>
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite"/>
+</p>
+
+### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+</p>
+
+**Também utilizo**
+
+- Supabase
+- PostgreSQL
+- Docker
+- VS Code
+- Git
+
+---
+
+## 📚 Áreas de interesse
+
+- Software Engineering
+- Cloud Computing
+- DevOps
+- Observabilidade
+- Arquitetura de Software
+- Engenharia de Dados
+
+---
+
+## ⭐ Projetos em destaque
+
+### Plataforma de Observabilidade
+
+Projeto desenvolvido como Trabalho de Conclusão de Curso.
+
+Tecnologias:
+
+- Kubernetes
+- Prometheus
+- Grafana
+- Loki
+- Tempo
+- OpenTelemetry
+
+---
+
+### Plataforma de Análise Preditiva
+
+Aplicação desenvolvida para análise de dados utilizando técnicas preditivas e visualização de informações.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Próximos objetivos
+
+- ✅ Concluir a graduação
+- 🎓 Obter certificação AWS
+- ☸️ Aprofundar conhecimentos em Kubernetes
+- ⚙️ Desenvolver projetos utilizando Terraform
+- 🚀 Evoluir para uma posição como Software Engineer
 
 ---
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) • [E-mail](mailto:seu@email.com)
+Sempre aberto para trocar ideias sobre desenvolvimento de software, arquitetura, Cloud e DevOps.
+
+<p>
+<a href="https://linkedin.com/in/SEU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+</p>
