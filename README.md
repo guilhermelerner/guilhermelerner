@@ -44,13 +44,6 @@ machine learning, visão computacional e computação paralela.
 - Cloud, DevOps e observabilidade
 - Processamento de imagens e computação paralela
 
-## Estatísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
 ## Contato
 
 Veja meus projetos e acompanhe meu trabalho por aqui:
