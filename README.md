@@ -17,7 +17,7 @@ machine learning, visão computacional e computação paralela.
 - 🎓 Graduando em Ciência da Computação
 - 🧩 Interesse em engenharia de software, dados, cloud e DevOps
 - 🌱 Estudando arquitetura de software, AWS, Kubernetes e Terraform
-- 🇧🇷 Brasil
+- 📍 Primavera do Leste, MT
 
 ## Tecnologias
 
