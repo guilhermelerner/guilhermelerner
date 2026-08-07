@@ -1,143 +1,57 @@
 <div align="center">
 
-# Guilherme Lerner
+# Olá, eu sou Guilherme Lerner 👋
 
-### Software Engineering • Cloud • DevOps • Observability
+**Desenvolvedor de software e estudante de Ciência da Computação**
 
-Estagiário de Desenvolvimento de Sistemas • Ciência da Computação
+Construo aplicações mobile e back-end, pipelines de dados e experimentos com
+machine learning, visão computacional e computação paralela.
 
-<p>
-  <a href="https://github.com/guilhermelerner">
-    <img src="https://img.shields.io/github/followers/guilhermelerner?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-guilhermelerner-181717?style=for-the-badge&logo=github)](https://github.com/guilhermelerner)
 
 </div>
 
----
-
-## 👋 Olá!
-
-Sou estudante de Ciência da Computação e atualmente atuo como **Estagiário de Desenvolvimento de Sistemas** na **Agrocifra**.
-
-Tenho interesse em desenvolver software de qualidade, automatizar processos e construir aplicações escaláveis. Nos últimos anos venho direcionando meus estudos para **Cloud Computing**, **DevOps**, **Observabilidade** e **Engenharia de Software**, sempre buscando aplicar esses conceitos em projetos práticos.
-
-Meu objetivo é evoluir para uma carreira como **Software Engineer**, desenvolvendo soluções modernas e bem estruturadas.
-
----
-
-## 🚀 Atualmente
+## Sobre mim
 
 - 💼 Estagiário de Desenvolvimento de Sistemas
-- 🎓 Concluindo Bacharelado em Ciência da Computação
-- 📖 Desenvolvendo conhecimentos em Arquitetura de Software
-- ☁️ Estudando AWS, Kubernetes e Terraform
-- 📊 Explorando Observabilidade e Engenharia de Plataforma
-- 🏗 Construindo projetos para fortalecer meu portfólio
+- 🎓 Graduando em Ciência da Computação
+- 🧩 Interesse em engenharia de software, dados, cloud e DevOps
+- 🌱 Estudando arquitetura de software, AWS, Kubernetes e Terraform
+- 🇧🇷 Brasil
 
----
+## Tecnologias
 
-## 💻 Stack
-
-### Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,flutter,nodejs,express,postgres,mysql,firebase,docker,git" alt="Python, TypeScript, JavaScript, Dart, Flutter, Node.js, Express, PostgreSQL, MySQL, Firebase, Docker e Git" />
 </p>
 
-### Front-end
+## Projetos em destaque
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite"/>
-</p>
+| Projeto | O que demonstra | Tecnologias |
+|---|---|---|
+| [Análise Preditiva do Tráfego Aéreo Brasileiro](https://github.com/guilhermelerner/Analise-Preditiva-do-Trafego-Aereo-Brasileiro) | Pipeline de dados da ANAC, análise estatística, modelos preditivos e visualização geográfica | Python, pandas, scikit-learn, SQLAlchemy, Folium |
+| [E-Lixo](https://github.com/guilhermelerner/App-E_lixo) | Aplicativo educativo multiplataforma sobre descarte responsável de resíduos eletrônicos | Flutter, Dart, Material Design |
+| [Pós-processamento CBIR](https://github.com/guilhermelerner/Pos-ProcessamentoCBIR) | Recuperação de regiões de imagens com ORB, selective search, IoU e NMS | Python, OpenCV, NumPy |
+| [API Pizzaria](https://github.com/guilhermelerner/API-Pizzaria) | API REST modular com autenticação, validação e persistência relacional | Node.js, TypeScript, Express, TypeORM, PostgreSQL, Docker |
+| [Pizzaria T3](https://github.com/guilhermelerner/PizzariaT3) | Aplicativo Flutter com autenticação, CRUD, imagens e persistência em nuvem | Flutter, Dart, Firebase Auth, Cloud Firestore |
+| [Jogo da Vida Paralelo](https://github.com/guilhermelerner/TrabalhoFinalJogodaVidaParalela) | Simulação distribuída com decomposição de domínio e comunicação entre processos | C, MPI, OpenMPI |
 
-### Back-end
+## Áreas de interesse
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-</p>
+- Engenharia e arquitetura de software
+- APIs e aplicações multiplataforma
+- Ciência de dados e machine learning
+- Cloud, DevOps e observabilidade
+- Processamento de imagens e computação paralela
 
-### Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-</p>
-
-**Também utilizo**
-
-- Supabase
-- PostgreSQL
-- Docker
-- VS Code
-- Git
-
----
-
-## 📚 Áreas de interesse
-
-- Software Engineering
-- Cloud Computing
-- DevOps
-- Observabilidade
-- Arquitetura de Software
-- Engenharia de Dados
-
----
-
-## ⭐ Projetos em destaque
-
-### Plataforma de Observabilidade
-
-Projeto desenvolvido como Trabalho de Conclusão de Curso.
-
-Tecnologias:
-
-- Kubernetes
-- Prometheus
-- Grafana
-- Loki
-- Tempo
-- OpenTelemetry
-
----
-
-### Plataforma de Análise Preditiva
-
-Aplicação desenvolvida para análise de dados utilizando técnicas preditivas e visualização de informações.
-
----
-
-## 📈 GitHub Stats
+## Estatísticas
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermelerner&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermelerner&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelerner&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
----
+## Contato
 
-## 🎯 Próximos objetivos
-
-- ✅ Concluir a graduação
-- 🎓 Obter certificação AWS
-- ☸️ Aprofundar conhecimentos em Kubernetes
-- ⚙️ Desenvolver projetos utilizando Terraform
-- 🚀 Evoluir para uma posição como Software Engineer
-
----
-
-## 📫 Contato
-
-Sempre aberto para trocar ideias sobre desenvolvimento de software, arquitetura, Cloud e DevOps.
-
-<p>
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-</p>
+Veja meus projetos e acompanhe meu trabalho por aqui:
+[github.com/guilhermelerner](https://github.com/guilhermelerner).
